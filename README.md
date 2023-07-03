@@ -98,9 +98,6 @@ To install a binary:
 * 1.0
     * The first release
 
-## Meta
+## Original License
 
-Distributed under the MS-PL license. See [license](license.md) for more information.
-
-
-
+This project was originally distributed under the MS-PL license. See [license](license.md) for more information.
