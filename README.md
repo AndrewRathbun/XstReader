@@ -101,3 +101,7 @@ To install a binary:
 ## Original License
 
 This project was originally distributed under the MS-PL license. See [license](license.md) for more information.
+
+## Current License
+
+This updated fork will be distributed under the MIT license.
