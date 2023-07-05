@@ -1,3 +1,9 @@
+# NOTICE
+
+Use this fork instead: https://github.com/iluvadev/XstReader
+
+It is far more updated than this one!
+
 # Xst Reader
 
 Xst Reader is an open source viewer for Microsoft Outlook’s .OST and .PST files, written entirely in C# originally by [Dijji](https://github.com/Dijji). This updated fork has been upgraded from .NET 4 (deprecated) to .NET 4.8 (still supported), and this tool still has no dependency on any Microsoft Office components.
